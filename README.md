@@ -293,7 +293,7 @@ enterprise_rag_agent/
 - ✅ Rapide et performant
 - ✅ Gratuit (avec quota généreux)
 - ✅ Support multilingue excellent
-- ✅ Contexte étendu (jusqu'à 1M tokens)
+- ✅ Contexte étendu (varie selon le modèle)
 
 **Configuration** :
 ```python
