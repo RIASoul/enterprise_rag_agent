@@ -293,7 +293,7 @@ enterprise_rag_agent/
 - ✅ Rapide et performant
 - ✅ Gratuit (avec quota généreux)
 - ✅ Support multilingue excellent
-- ✅ Contexte étendu (varie selon le modèle)
+- ✅ Fenêtre de contexte large (gemini-2.0-flash : 1M tokens)
 
 **Configuration** :
 ```python
